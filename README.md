@@ -14,7 +14,7 @@ This repository provides a pipeline for scraping, processing, chunking, embeddin
    - Chunk of Course content has been added in the chunk folder, with the respective mardown file cloned from the repo
 
 3. **Embedding**
-   - `embeddings.py` processes each chunk and generates vector embeddings for semantic search and retrieval.
+   - `vector_npzfile.py` processes each chunk and generates vector embeddings for semantic search and retrieval.
 
 4. **Querying & Image Support**
    - The system allows querying the embedded content.

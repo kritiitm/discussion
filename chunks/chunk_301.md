@@ -1,0 +1,16 @@
+### Post 147
+**Post URL**: /t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/147
+- **ID**: 588974
+- **Author**: B R GIRI SUBRAHMANYA (23f2000573)
+- **Created At**: 2025-02-02T02:06:43.292Z
+- **Content**:  
+  Week-2 Question-8, I am getting error
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/6/36896ceedd7b4384297f986bf8058dbbb56e7814.png" data-download-href="/uploads/short-url/7Msdp9SfDmW9eEezqboTdLwT5wo.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/6/36896ceedd7b4384297f986bf8058dbbb56e7814_2_690x154.png" alt="image" data-base62-sha1="7Msdp9SfDmW9eEezqboTdLwT5wo" width="690" height="154" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/6/36896ceedd7b4384297f986bf8058dbbb56e7814_2_690x154.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/6/36896ceedd7b4384297f986bf8058dbbb56e7814_2_1035x231.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/6/36896ceedd7b4384297f986bf8058dbbb56e7814_2_1380x308.png 2x" data-dominant-color="2F2E33"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1730×387 32.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+I have pushed my image in the repository, pulled it and ran once, it worked
+<img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/3/13ab7f2c8e18b815cbd92a4d462580bc9ed35d33.png" alt="image" data-base62-sha1="2O0v803FEcalhPXnCfAvXuF25xx" width="690" height="61" data-dominant-color="442239">
+This is how my docker hub repository looks,
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/0/6/06f9ddb3637324b140414120baa132706c19e753.png" data-download-href="/uploads/short-url/ZIcpWIkVomrXSnK0JnV71mCmjh.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/6/06f9ddb3637324b140414120baa132706c19e753_2_517x260.png" alt="image" data-base62-sha1="ZIcpWIkVomrXSnK0JnV71mCmjh" width="517" height="260" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/6/06f9ddb3637324b140414120baa132706c19e753_2_517x260.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/6/06f9ddb3637324b140414120baa132706c19e753_2_775x390.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/6/06f9ddb3637324b140414120baa132706c19e753_2_1034x520.png 2x" data-dominant-color="1B2133"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">2239×1129 278 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+<code>https://hub.docker.com/repository/docker/23f2000573/first-rep/general</code>
+- **Reactions**: None
+- **Post Number**: 147
+

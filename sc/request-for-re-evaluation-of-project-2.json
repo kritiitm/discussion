@@ -1,0 +1,85 @@
+[
+  {
+    "id": 573232,
+    "name": "Aditya Gupta",
+    "username": "22f3002811",
+    "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+    "created_at": "2024-12-27T15:51:28.297Z",
+    "cooked": "<p>Dear Tds team <a class=\"mention\" href=\"/u/carlton\">@carlton</a> <a class=\"mention\" href=\"/u/jkmadathil\">@jkmadathil</a> <a class=\"mention\" href=\"/u/bharathi\">@Bharathi</a> <a class=\"mention\" href=\"/u/andrew\">@andrew</a> ,</p>\n<p>I hope this message finds you well. I would like to clarify my position and outline the key concerns regarding the evaluation of Project 2.</p>\n<p>Firstly, let me emphasize that I have no issue with the discussion, learning objectives, or goals of the project. In fact, I thoroughly enjoy challenges and have appreciated this course more than any other in the diploma program. However, there is a clear distinction between engaging in academic exploration and the critical impact of grading, which directly influences our final results.</p>\n<p>Now, addressing the core issue:</p>\n<p>Attached below is a screenshot of the final evaluation results:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/d/5d85be98a8073892f983fd00af1e08f81067012e.png\" data-download-href=\"/uploads/short-url/dlkWXREkxpLHdwZBFt9r4fJQ8Kq.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/d/5d85be98a8073892f983fd00af1e08f81067012e_2_690x353.png\" alt=\"image\" data-base62-sha1=\"dlkWXREkxpLHdwZBFt9r4fJQ8Kq\" width=\"690\" height=\"353\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/d/5d85be98a8073892f983fd00af1e08f81067012e_2_690x353.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/d/5d85be98a8073892f983fd00af1e08f81067012e_2_1035x529.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/d/5d85be98a8073892f983fd00af1e08f81067012e_2_1380x706.png 2x\" data-dominant-color=\"E4E9F1\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1918×983 109 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>These evaluation fields, which were hidden during the final evaluation, significantly affected (and, in my case, diminished) my final score. For instance:</p>\n<ol>\n<li><strong>ReadMe Evaluation:</strong><br>\nHow did the LLM determine that my ReadMe file lacked the necessary headings or structure? This judgment appears inconsistent and lacks transparency.</li>\n<li><strong>Chart Relevance:</strong><br>\nHow did the LLM evaluate the relevance of the charts in my submission? The charts I provided were entirely aligned with the project goals.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/8/a8df1b11f58397665b4679529969913457e2850b.png\" data-download-href=\"/uploads/short-url/o5UdrHJagJ58gjtrG9i4EpUxq1d.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/8/a8df1b11f58397665b4679529969913457e2850b_2_690x473.png\" alt=\"image\" data-base62-sha1=\"o5UdrHJagJ58gjtrG9i4EpUxq1d\" width=\"690\" height=\"473\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/8/a8df1b11f58397665b4679529969913457e2850b_2_690x473.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/8/a8df1b11f58397665b4679529969913457e2850b_2_1035x709.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/8/a8df1b11f58397665b4679529969913457e2850b_2_1380x946.png 2x\" data-dominant-color=\"998083\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1412×969 104 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nFor reference, my submission can be reviewed here: <a href=\"https://github.com/AdityaGuptaVarshney/tds-project2/tree/main/goodreads\" rel=\"noopener nofollow ugc\">GitHub Repository</a>.</li>\n</ol>\n<p>To explore alternative evaluation methods, if peer review had been used, I believe it is reasonable to estimate that my final score would have ranged between 80-90%. This aligns with the initial evaluation script, which scored my submission at 89% (14/14).<br>\n<img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/e/be5826c672a2d37fb9a2d838ef0de53f30fda748.png\" alt=\"image\" data-base62-sha1=\"r9RA9acxXc9ODoo0rITekp1xUHm\" width=\"690\" height=\"40\" data-dominant-color=\"F1E6CB\"></p>\n<p>This created a false sense of confidence for many students, myself included, that our scripts were adequately optimized and would receive a decent grade (as the evaluation script used llm to determine the final grade for test cases and it took a lot of time to take it from 4/14 to 14/14). This lack of transparency in the evaluation process led to confusion and ultimately to disappointment when the final grades were released.</p>\n<p><strong>Critical Concerns:</strong></p>\n<ol>\n<li><strong>Transparency:</strong><br>\nHow do you justify the drastic reduction of a score from 89% (based on the initial evaluation) to a mere 41% in the final evaluation? This inconsistency undermines the credibility of the grading system.</li>\n<li><strong>Integrity:</strong><br>\nThe final evaluation process appears to have serious flaws. A peer review would likely have produced a score closer to 90%, which is far more representative of the effort and quality of the submission. The current system’s inability to provide consistent and reliable results is concerning.</li>\n<li><strong>Impact on Grades:</strong><br>\nThe abrupt decline in scores has directly impacted our final grade points, in some cases, reducing them from a ‘B’ to a ‘C.’ This disproportionately penalizes students and fails to reflect their genuine efforts.</li>\n</ol>\n<p><strong>Proposed Solutions:</strong></p>\n<ol>\n<li>Reevaluate all submissions using a new and fair evaluation script (though I understand this might not be feasible at this stage).</li>\n<li>Implement a peer review system to provide more accurate and balanced grading.</li>\n<li>Accept the initial test results (14/14 scores) as the final results. While this may be a basic measure, it is at least consistent and reflective of the criteria we optimized our scripts for.</li>\n</ol>\n<p>What cannot be done, however, is ignoring the evident flaws in the evaluation system. Students invested weeks optimizing their scripts (from scores like 4/14 to 14/14) based on the visible tests, only to be blindsided by a system that ultimately did not function as intended.</p>\n<p>While I am not opposed to new evaluation systems or changes, it is essential that such systems work transparently and consistently to ensure fairness for all students.</p>\n<p>Thank you for your time and consideration. I look forward to your response.</p>\n<p>Sincerely,<br>\nAditya Gupta</p>",
+    "post_number": 1,
+    "post_type": 1,
+    "posts_count": 1,
+    "updated_at": "2024-12-27T15:51:28.297Z",
+    "reply_count": 0,
+    "reply_to_post_number": null,
+    "quote_count": 0,
+    "incoming_link_count": 6,
+    "reads": 109,
+    "readers_count": 108,
+    "score": 171.6,
+    "yours": false,
+    "topic_id": 160668,
+    "topic_slug": "request-for-re-evaluation-of-project-2",
+    "display_username": "Aditya Gupta",
+    "primary_group_name": "ds-students",
+    "flair_name": "ds-students",
+    "flair_url": null,
+    "flair_bg_color": "",
+    "flair_color": "",
+    "flair_group_id": 294,
+    "badges_granted": [],
+    "version": 1,
+    "can_edit": false,
+    "can_delete": false,
+    "can_recover": false,
+    "can_see_hidden_post": false,
+    "can_wiki": false,
+    "link_counts": [
+      {
+        "url": "https://github.com/AdityaGuptaVarshney/tds-project2/tree/main/goodreads",
+        "internal": false,
+        "reflection": false,
+        "title": "tds-project2/goodreads at main · AdityaGuptaVarshney/tds-project2 · GitHub",
+        "clicks": 2
+      }
+    ],
+    "read": false,
+    "user_title": null,
+    "bookmarked": false,
+    "actions_summary": [
+      {
+        "id": 2,
+        "count": 8,
+        "can_act": true
+      }
+    ],
+    "moderator": false,
+    "admin": false,
+    "staff": false,
+    "user_id": 17202,
+    "hidden": false,
+    "trust_level": 1,
+    "deleted_at": null,
+    "user_deleted": false,
+    "edit_reason": null,
+    "can_view_edit_history": true,
+    "wiki": false,
+    "post_url": "/t/request-for-re-evaluation-of-project-2/160668/1",
+    "user_cakedate": "2023-06-02",
+    "reactions": [
+      {
+        "id": "heart",
+        "type": "emoji",
+        "count": 8
+      }
+    ],
+    "current_user_reaction": null,
+    "reaction_users_count": 8,
+    "current_user_used_main_reaction": false,
+    "can_accept_answer": false,
+    "can_unaccept_answer": false,
+    "accepted_answer": false,
+    "topic_accepted_answer": null,
+    "can_vote": false
+  }
+]

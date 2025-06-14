@@ -1,0 +1,86 @@
+[
+  {
+    "id": 637901,
+    "name": "Anand S",
+    "username": "s.anand",
+    "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+    "created_at": "2025-06-11T16:23:46.149Z",
+    "cooked": "<p>Please post any questions related to <a href=\"https://exam.sanand.workers.dev/tds-2025-05-ga4\">Graded Assignment 4 - Data Sourcing</a>.</p>\n<p>Deadline: <span class=\"discourse-local-date\" data-date=\"2025-06-22\" data-email-preview=\"Sun, Jun 22, 2025 6:29 PM UTC\" data-format=\"LLLL\" data-time=\"23:59:00\" data-timezone=\"Asia/Calcutta\">Sunday, June 22, 2025 6:29 PM</span></p>\n<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a> <a class=\"mention\" href=\"/u/jivraj\">@Jivraj</a> <a class=\"mention\" href=\"/u/hritikroshan_hrm\">@HritikRoshan_HRM</a></p>",
+    "post_number": 1,
+    "post_type": 1,
+    "posts_count": 1,
+    "updated_at": "2025-06-11T16:26:24.929Z",
+    "reply_count": 0,
+    "reply_to_post_number": null,
+    "quote_count": 0,
+    "incoming_link_count": 2,
+    "reads": 57,
+    "readers_count": 56,
+    "score": 43.4,
+    "yours": false,
+    "topic_id": 178881,
+    "topic_slug": "ga4-data-sourcing-discussion-thread-tds-may-2025",
+    "display_username": "Anand S",
+    "primary_group_name": "faculty",
+    "flair_name": "faculty",
+    "flair_url": "chalkboard-user",
+    "flair_bg_color": "f2c26e",
+    "flair_color": "000",
+    "flair_group_id": 54,
+    "badges_granted": [],
+    "version": 1,
+    "can_edit": false,
+    "can_delete": false,
+    "can_recover": false,
+    "can_see_hidden_post": false,
+    "can_wiki": false,
+    "link_counts": [
+      {
+        "url": "https://exam.sanand.workers.dev/tds-2025-05-ga4",
+        "internal": false,
+        "reflection": false,
+        "title": "Technical Assessment",
+        "clicks": 13
+      }
+    ],
+    "read": false,
+    "user_title": "Course_faculty",
+    "title_is_group": true,
+    "bookmarked": false,
+    "actions_summary": [
+      {
+        "id": 2,
+        "count": 2,
+        "can_act": true
+      }
+    ],
+    "moderator": false,
+    "admin": false,
+    "staff": false,
+    "user_id": 9419,
+    "hidden": false,
+    "trust_level": 4,
+    "deleted_at": null,
+    "user_deleted": false,
+    "edit_reason": null,
+    "can_view_edit_history": true,
+    "wiki": false,
+    "post_url": "/t/ga4-data-sourcing-discussion-thread-tds-may-2025/178881/1",
+    "user_cakedate": "2022-01-03",
+    "reactions": [
+      {
+        "id": "heart",
+        "type": "emoji",
+        "count": 2
+      }
+    ],
+    "current_user_reaction": null,
+    "reaction_users_count": 2,
+    "current_user_used_main_reaction": false,
+    "can_accept_answer": false,
+    "can_unaccept_answer": false,
+    "accepted_answer": false,
+    "topic_accepted_answer": null,
+    "can_vote": false
+  }
+]

@@ -1,0 +1,18 @@
+### Post 30
+**Post URL**: /t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/30
+- **ID**: 587355
+- **Author**: Carlton D'Silva (carlton)
+- **Created At**: 2025-01-29T02:57:18.959Z
+- **Reply To**: Post 29 (Divyasree, Divya1)
+- **Content**:  
+  Hi <a class="mention" href="/u/divya1">@Divya1</a>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/5/35e7ce763c7605e99ee1fad3906e1cd31d094b31.png" data-download-href="/uploads/short-url/7GRWQ9A0Ygc4UgcaxkNn2rTuJyx.png?dl=1" title="Screenshot 2025-01-29 at 8.19.05 am" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/5/35e7ce763c7605e99ee1fad3906e1cd31d094b31_2_690x389.png" alt="Screenshot 2025-01-29 at 8.19.05 am" data-base62-sha1="7GRWQ9A0Ygc4UgcaxkNn2rTuJyx" width="690" height="389" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/5/35e7ce763c7605e99ee1fad3906e1cd31d094b31_2_690x389.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/5/35e7ce763c7605e99ee1fad3906e1cd31d094b31_2_1035x583.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/5/35e7ce763c7605e99ee1fad3906e1cd31d094b31_2_1380x778.png 2x" data-dominant-color="F3F2F1"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-01-29 at 8.19.05 am</span><span class="informations">1738×982 122 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+Please do very carefully all things mentioned in the Deliverables as well as look at the Evaluation Section.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/9/898ab28ebe773e40fb3ad9b98c71ce4c5d063c09.png" data-download-href="/uploads/short-url/jCKzqFDYJsTz1kwHUd0AifW2DWN.png?dl=1" title="Screenshot 2025-01-29 at 8.26.08 am" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/9/898ab28ebe773e40fb3ad9b98c71ce4c5d063c09_2_690x234.png" alt="Screenshot 2025-01-29 at 8.26.08 am" data-base62-sha1="jCKzqFDYJsTz1kwHUd0AifW2DWN" width="690" height="234" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/9/898ab28ebe773e40fb3ad9b98c71ce4c5d063c09_2_690x234.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/9/898ab28ebe773e40fb3ad9b98c71ce4c5d063c09_2_1035x351.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/9/898ab28ebe773e40fb3ad9b98c71ce4c5d063c09_2_1380x468.png 2x" data-dominant-color="F0F0F0"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-01-29 at 8.26.08 am</span><span class="informations">1460×496 45.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+We had a session on 28th Jan introducing all the important aspects of Project.
+If you do not do everything exactly as mentioned <strong>especially the pre - requisites</strong> mentioned in the Evaluation section you will get 0 in the project and <em>there will be no appeal</em> for failing to meet the pre - requisites of the evaluation criteria.
+In order for us to evaluate the project you have to provide the deliverables mentioned above.
+Kind regards
+- **Reactions**: +1 (1)
+- **Post Number**: 30
+

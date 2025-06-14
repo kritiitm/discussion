@@ -1,0 +1,32 @@
+### Post 98
+**Post URL**: /t/project-2-tds-solver-discussion-thread/169029/98
+- **ID**: 611014
+- **Author**: LAKSHAY (lakshaygarg654)
+- **Created At**: 2025-03-24T06:59:02.989Z
+- **Content**:  
+  <a class="mention" href="/u/carlton">@carlton</a> <a class="mention" href="/u/jivraj">@Jivraj</a> <a class="mention" href="/u/saransh_saini">@Saransh_Saini</a><br>
+<strong>Respected TDS Team,</strong>
+I currently have Three doubts regarding <strong>Project 2</strong>:
+<ol>
+<li>
+As per the 19th March session, it was mentioned that the files would be the same for everyone, and only the parameters in the questions would vary. However, I have noticed that the files can actually be different. To support this, I’m attaching screenshots of the CSV files for GA5 Q1—one is mine, and the other belongs to a batchmate.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/d/bd0793de2034d6990e337f71cda4447d55e863bb.png" data-download-href="/uploads/short-url/qYetz4niRz4sSTi8LqLpF7X9Gs3.png?dl=1" title="mydata" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/d/bd0793de2034d6990e337f71cda4447d55e863bb.png" alt="mydata" data-base62-sha1="qYetz4niRz4sSTi8LqLpF7X9Gs3" width="517" height="220" data-dominant-color="E9E9EA"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">mydata</span><span class="informations">939×401 18.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1c9058197b1b9e480dec30b06a4e9cca190a1a9e.png" data-download-href="/uploads/short-url/44GCKKbbLnhDqsoaago0XJzY3h4.png?dl=1" title="friend data" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1c9058197b1b9e480dec30b06a4e9cca190a1a9e.png" alt="friend data" data-base62-sha1="44GCKKbbLnhDqsoaago0XJzY3h4" width="517" height="256" data-dominant-color="EBEBEB"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">friend data</span><span class="informations">938×465 20.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+During the session, it was said that uploading files would take time, and the suggested solution was to pre-download the files on the server since they are supposed to be the same. But since the files are not identical for all students, this issue needs to be addressed.
+</li>
+<li>
+In <strong>GA4 Q2</strong>, my task is to retrieve movie information from IMDb for all films with a rating between 3 and 5. I am scraping the correct movie names(for example 6th movie in given image), but the portal is accepting them differently. All movie names are provided in English, but the portal seems to be accepting some titles in other languages—Spanish, Dutch, I believe.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/c/5/c5552e1d6f050b500b4947ddd67164847d970233.png" data-download-href="/uploads/short-url/s9GyFRXUbn7HQ5BvJkRzRozInGr.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5552e1d6f050b500b4947ddd67164847d970233_2_517x129.png" alt="image" data-base62-sha1="s9GyFRXUbn7HQ5BvJkRzRozInGr" width="517" height="129" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5552e1d6f050b500b4947ddd67164847d970233_2_517x129.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5552e1d6f050b500b4947ddd67164847d970233_2_775x193.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5552e1d6f050b500b4947ddd67164847d970233_2_1034x258.png 2x" data-dominant-color="F8F7FA"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1674×420 24.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/c/7/c76a947af3edc25ba9b8be18865ae2879d31a353.png" data-download-href="/uploads/short-url/ss7mwdamNqYCnpKu9KHeZpRRnlp.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/7/c76a947af3edc25ba9b8be18865ae2879d31a353_2_517x165.png" alt="image" data-base62-sha1="ss7mwdamNqYCnpKu9KHeZpRRnlp" width="517" height="165" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/7/c76a947af3edc25ba9b8be18865ae2879d31a353_2_517x165.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/7/c76a947af3edc25ba9b8be18865ae2879d31a353_2_775x247.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/7/c76a947af3edc25ba9b8be18865ae2879d31a353_2_1034x330.png 2x" data-dominant-color="F3F2F2"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1118×358 63.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+Please check the issue in the images provided. How to handle this question.
+</li>
+<li>
+In <strong>GA4 Q10</strong>, very few students were able to solve the question using LLMs or Python during the assignment. Most of us ended up solving it manually. At that time, <a class="mention" href="/u/carlton">@carlton</a> sir had mentioned that the question would be revised.<br>
+Here is the <a href="https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959/106">thread link</a> for reference.<br>
+How should we handle this question now?
+</li>
+</ol>
+Thankyou
+- **Reactions**: None
+- **Post Number**: 98
+

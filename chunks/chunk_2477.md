@@ -1,0 +1,21 @@
+### Post 157
+**Post URL**: /t/project-2-tds-solver-discussion-thread/169029/157
+- **ID**: 612465
+- **Author**: LAKSHAY (lakshaygarg654)
+- **Created At**: 2025-03-29T06:29:59.790Z
+- **Reply To**: Post 123 (Carlton D'Silva, carlton)
+- **Content**:  
+  <a class="mention" href="/u/carlton">@carlton</a><br>
+I am bit confused about  answer evaluation process. Can you tell which one  is correct process.<br>
+1st process ( I used json.dumps() to get my_response as json formatted string)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/2/b2c5345c348f63fcf52240ba6c07cb8655d7d17c.png" data-download-href="/uploads/short-url/pvtuUeKF4UrJMTad3XVQkLGmjxy.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/2/b2c5345c348f63fcf52240ba6c07cb8655d7d17c.png" alt="image" data-base62-sha1="pvtuUeKF4UrJMTad3XVQkLGmjxy" width="517" height="159" data-dominant-color="F5F4F4"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">726×224 4.68 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+2nd process ( This one is Json object)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/4/848f46d75a3912b4ccc280a7594136401c0f0c36.png" data-download-href="/uploads/short-url/iUFZH1xlYH3LdVBhmOwnJ1wzzlc.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/4/848f46d75a3912b4ccc280a7594136401c0f0c36.png" alt="image" data-base62-sha1="iUFZH1xlYH3LdVBhmOwnJ1wzzlc" width="514" height="193"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">514×193 3.61 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+or both are incorrect?
+This is one more example of 1st process after json.loads() it gave me correct format for assignment portal answer:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/e/ae62c221a5f66faaa47d8b10c00b733a7b617d64.png" data-download-href="/uploads/short-url/oSGFs53lVoOwkynOOjjV01McE7i.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/e/ae62c221a5f66faaa47d8b10c00b733a7b617d64.png" alt="image" data-base62-sha1="oSGFs53lVoOwkynOOjjV01McE7i" width="690" height="346" data-dominant-color="F1E8E8"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">927×466 20.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+This is one more example of 2nd process without use of json.loads() it gave me correct format for assignment portal answer:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/8/f80d8908109db818e5664f5565bf0a6006055001.png" data-download-href="/uploads/short-url/zonpxeZTAwLGRrYTaysFCNCHAqZ.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/8/f80d8908109db818e5664f5565bf0a6006055001.png" alt="image" data-base62-sha1="zonpxeZTAwLGRrYTaysFCNCHAqZ" width="690" height="333" data-dominant-color="F2EBEB"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">984×476 19.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+- **Reactions**: None
+- **Post Number**: 157
+

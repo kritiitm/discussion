@@ -1,0 +1,12 @@
+### Post 211
+**Post URL**: /t/project-2-tds-solver-discussion-thread/169029/211
+- **ID**: 613691
+- **Author**: VIKASH PRASAD (21f3002277)
+- **Created At**: 2025-03-31T00:52:32.760Z
+- **Content**:  
+  can anyone help me ,<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/4/54ccbabc6319ac27f5ea3495a8e4224c9104c87b.png" data-download-href="/uploads/short-url/c6aJM4OX5R3wpOe5gXxd3LiowOv.png?dl=1" title="Screenshot 2025-03-31 064538" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/4/54ccbabc6319ac27f5ea3495a8e4224c9104c87b_2_690x479.png" alt="Screenshot 2025-03-31 064538" data-base62-sha1="c6aJM4OX5R3wpOe5gXxd3LiowOv" width="690" height="479" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/4/54ccbabc6319ac27f5ea3495a8e4224c9104c87b_2_690x479.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/4/54ccbabc6319ac27f5ea3495a8e4224c9104c87b_2_1035x718.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/4/54ccbabc6319ac27f5ea3495a8e4224c9104c87b.png 2x" data-dominant-color="D0D1D3"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-03-31 064538</span><span class="informations">1172×815 101 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/c/5caf6ab37f4494ba32c8d50ccfae06cf4004990f.png" data-download-href="/uploads/short-url/ddVKSeHmBQXrXMG4leCdkwV0ebt.png?dl=1" title="Screenshot 2025-03-31 064552" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/c/5caf6ab37f4494ba32c8d50ccfae06cf4004990f.png" alt="Screenshot 2025-03-31 064552" data-base62-sha1="ddVKSeHmBQXrXMG4leCdkwV0ebt" width="690" height="89" data-dominant-color="F4F5F5"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-03-31 064552</span><span class="informations">913×119 3.63 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+- **Reactions**: None
+- **Post Number**: 211
+

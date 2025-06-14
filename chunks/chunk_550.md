@@ -1,0 +1,14 @@
+### Post 23
+**Post URL**: /t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/23
+- **ID**: 586802
+- **Author**: Divyasree (Divya1)
+- **Created At**: 2025-01-27T14:02:29.072Z
+- **Reply To**: Post 22 (Divyasree, Divya1)
+- **Content**:  
+  by clicking the link
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/2/32bd53681054ab17de6350c49f68b405acd538b9.png" data-download-href="/uploads/short-url/7eRv8qw8NqNdtMS9w7galsdr3Nn.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/32bd53681054ab17de6350c49f68b405acd538b9_2_690x78.png" alt="image" data-base62-sha1="7eRv8qw8NqNdtMS9w7galsdr3Nn" width="690" height="78" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/32bd53681054ab17de6350c49f68b405acd538b9_2_690x78.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/32bd53681054ab17de6350c49f68b405acd538b9_2_1035x117.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/2/32bd53681054ab17de6350c49f68b405acd538b9.png 2x" data-dominant-color="F7F7F8"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1198×136 9.49 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/3/937562cc32dc76a582f6845678b048730622d388.png" data-download-href="/uploads/short-url/l2tGyjPZGc4BeKrx2WotCt6x2fC.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/3/937562cc32dc76a582f6845678b048730622d388_2_690x229.png" alt="image" data-base62-sha1="l2tGyjPZGc4BeKrx2WotCt6x2fC" width="690" height="229" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/3/937562cc32dc76a582f6845678b048730622d388_2_690x229.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/3/937562cc32dc76a582f6845678b048730622d388_2_1035x343.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/3/937562cc32dc76a582f6845678b048730622d388_2_1380x458.png 2x" data-dominant-color="F7F7F7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1750×581 70.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+I am getting this opened.
+- **Reactions**: None
+- **Post Number**: 23
+

@@ -27,6 +27,10 @@ codefiles/
 ├── conv_markdown.py      # convertes json to markdown
 ├── scrape_thread.py     # Scrapes Thread froom discourse and makes sure the date range is taken into account
 ├── scrape_page.py   # Scrapes pages from discourse
+vector_npzfile.py - to embed the files using ollama's nomic embed text model
+vector_store.npz - to store all the embeddings
+query_ollama.py & query_openai.py - used for querying using llm from ollama and open ai model respectively
+chunking.py - to chunk the markdown files with the post url on top
 ```
 
 ## Usage

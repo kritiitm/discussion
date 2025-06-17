@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from openai import OpenAI
 from pydantic import BaseModel
 import numpy as np
 import json
@@ -7,15 +8,19 @@ import logging
 import re
 import base64
 from typing import Optional
-from openai import OpenAI
-
+from fastapi.middleware.cors import CORSMiddleware
 # Set up logging
-logging.basicConfig(filename="query_openai.log", level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
-
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or specify your frontend domain
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 # Initialize Open AI client with proxy base URL
-openai_api_key = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjIwMDMwMjNAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.UWCVG9t5gDgtHNtfGYxVBluIwFePi7ttOJw_HtgQHnY"
+openai_api_key = os.environ.get("OPEN_API_KEY")
 client = OpenAI(
     api_key=openai_api_key,
     base_url="https://aiproxy.sanand.workers.dev/openai/v1"
@@ -46,18 +51,27 @@ def embed_text(text):
         raise HTTPException(status_code=500, detail=f"Error embedding query: {str(e)}")
 
 def load_vector_store():
-    """Load embeddings and metadata from NPZ."""
+    """Load embeddings and metadata from vector_store.npz safely."""
+    if not os.path.exists(npz_path):
+        raise HTTPException(status_code=500, detail="vector_store.npz not found on server.")
+
     try:
         with np.load(npz_path, allow_pickle=True) as data:
+            if "embeddings" not in data or "metadata" not in data:
+                raise HTTPException(status_code=500, detail="Invalid vector_store.npz: missing keys.")
+
             embeddings = data["embeddings"]
             metadata = data["metadata"]
+
             if isinstance(metadata, np.ndarray):
                 metadata = metadata.item() if metadata.size == 1 else metadata[0]
+
             chunk_metadata = json.loads(metadata)
-        logging.info(f"Loaded embeddings and metadata from {npz_path}")
-        return embeddings, chunk_metadata
+            logging.info(f"Loaded {len(chunk_metadata)} metadata entries and embeddings.")
+            return embeddings, chunk_metadata
+
     except Exception as e:
-        logging.error(f"Error loading NPZ file: {str(e)}")
+        logging.error(f"Failed to load vector store: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Failed to load vector store: {str(e)}")
 
 def extract_content_preview(content):
@@ -174,5 +188,4 @@ async def query_endpoint(request: QueryRequest):
         answer, links = query_llm(request.question, top_chunks, request.image)
         return {"answer": answer, "links": links}
     except Exception as e:
-        logging.error(f"Endpoint failed: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))

@@ -41,3 +41,10 @@ chunking.py - to chunk the markdown files with the post url on top
 
 This pipeline enables efficient search and retrieval of TDS course and forum content, with support for both text and images in responses.
 
+To run it , it is available in this url: https://scrape-9w0k.onrender.com/query , now you can use curl command like this to try it out :
+
+curl https://scrape-9w0k.onrender.com/query \
+  -H "Content-Type: application/json" \
+  -d '{
+    "question": "Should I use gpt-4o-mini which AI proxy supports, or gpt3.5 turbo?"
+  }'

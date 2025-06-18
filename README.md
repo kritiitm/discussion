@@ -19,6 +19,7 @@ This repository provides a pipeline for scraping, processing, chunking, embeddin
 4. **Querying & Image Support**
    - The system allows querying the embedded content.
    - It also supports sending images along with text responses for richer answers.
+   - The file main.py consists of an api endpoint that will actually take in user question and use open ai to give answer to it based on the chunks and the vector store file.
 
 ## Directory Structure
 
@@ -29,23 +30,11 @@ codefiles/
 ├── scrape_page.py   # Scrapes pages from discourse
 vector_npzfile.py - to embed the files using ollama's nomic embed text model
 vector_store.npz - to store all the embeddings
-query_ollama.py & query_openai.py - used for querying using llm from ollama and open ai model respectively
+main.py - used for querying using open ai model
 chunking.py - to chunk the markdown files with the post url on top
 ```
 
-## Usage
 
-1. Scrape and convert content:
-   ```bash
-   python codefiles/scraper.py
-   ```
-2. Chunk the Markdown:
-   ```bash
-   python codefiles/chunking.py
-   ```
-3. Generate embeddings and query:
-   ```bash
-   python embeddings.py
    ```
 
 ---

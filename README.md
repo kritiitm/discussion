@@ -48,3 +48,5 @@ curl https://scrape-9w0k.onrender.com/query \
   -d '{
     "question": "Should I use gpt-4o-mini which AI proxy supports, or gpt3.5 turbo?"
   }'
+
+( You can also add images , by specifying it in the curl command )
